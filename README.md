@@ -23,7 +23,7 @@ This project demonstrates how to capture and analyze network traffic using Wires
 ## 👨‍💻 Author
 
 **Sayan Mandal**  
-B.Sc. Computer Science, Adamas University  
+B.Tech Computer Science, Adamas University  
 Cybersecurity & Networking Enthusiast
 
 ## 📅 Date
